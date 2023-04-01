@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I’m @ibrahimftkurniawan<br>I'm working at Bank Pembangunan Daerah Sulawesi Tenggara<br>I’m interested in web application, machine learning and data science<br>I’m currently learning python and tensorflow<br>
+Hi, I’m @ibrahimftkurniawan<br>I'm working at Bank Pembangunan Daerah Sulawesi Tenggara as Software Developer Core Banking System<br>I’m interested in web application, machine learning and data science<br>I’m currently learning python and tensorflow<br>
 
 
 ## 🌐 Socials:
